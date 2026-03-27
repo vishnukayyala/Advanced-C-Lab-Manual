@@ -4,6 +4,8 @@ Reg.no: 212223240185
 
 EXP NO 26: C PROGRAM TO DISPLAY STACK ELEMENTS USING LINKED LIST.
 
+Date: 12.3.26
+
 Aim:
 To write a C program to display stack elements using linked list.
 
@@ -48,6 +50,8 @@ Thus, the program to display stack elements using linked list is verified succes
 EXP.NO 27: C PROGRAM TO POP AN ELEMENT FROM THE GIVEN STACK USING 
 LINKED LIST.
 
+Date: 13.2.26
+
 Aim:
 To write a C program to pop an element from the given stack using liked list.
 
@@ -91,6 +95,8 @@ Thus, the program to pop an element from the given stack using liked list is ver
 
  
 EXP NO:28 C PROGRAM TO DISPLAY QUEUE ELEMENTS USING LINKED LIST.
+
+Date: 14.2.26
 
 Aim:
 To write a C program to display queue elements using linked list.
@@ -142,6 +148,8 @@ Thus, the program to display queue elements using linked list is verified succes
  
 EXP NO:29 C PROGRAM TO INSERT ELEMENTS IN QUEUE USING LINKED LIST
 
+Date: 17.2.26
+
 Aim:
 To write a C program to insert elements in queue using linked list
 
@@ -189,6 +197,8 @@ Thus, the program to insert elements in queue using linked list is verified succ
 
 
 EXP NO:30 C FUNCTION TO FIND THE PEEK OF QUEUE USING LINKED LIST.
+
+Date: 18.2.26
 
 
 Aim:
