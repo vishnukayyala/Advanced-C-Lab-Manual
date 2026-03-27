@@ -4,6 +4,8 @@ Name: VISHNU KM
 
 Reg.No: 212223240185
 
+Date: 27.1.26
+
 Aim:
 To write a C program for array of structure to check eligibility for the vaccine person age above 6 years of age.
 
@@ -53,6 +55,8 @@ Thus, the program is verified successfully.
 
 EXP NO:2 C PROGRAM FOR PASSING STRUCTURES AS FUNCTION ARGUMENTS AND RETURNING A STRUCTURE FROM A FUNCTION
 
+Date: 28.1.26
+
 Aim:
 To write a C program for passing structure as function and returning a structure from a function
 
@@ -101,6 +105,8 @@ EXP.NO:3 C PROGRAM TO READ A FILE NAME FROM USER AND WRITE THAT FILE USING FOPEN
 
 Aim:
 To write a C program to read a file name from user
+
+Date: 29.1.26
 
 Algorithm:
 1.	Include the necessary header file stdio.h.
@@ -166,6 +172,8 @@ Thus, the program is verified successfully
 
 
 EXP NO:4   PROGRAM TO READ A FILE NAME FROM USER, WRITE THAT FILE AND INSERT TEXT IN TO THAT FILE
+
+Date: 30.1.26
 
 Aim:
 To write a C program to read, a file and insert text in that file
@@ -246,6 +254,8 @@ Thus, the program is verified successfully
 
 
 Ex No 5 : C PROGRAM TO DISPLAY STUDENT DETAILS USING STRUCTURE
+
+Date: 31.1.26
 
 Aim:
 The aim of this program is to dynamically allocate memory to store information about multiple subjects (name and marks), input the details for each subject, and then display the stored information. Finally, it frees the allocated memory to prevent memory leaks.
