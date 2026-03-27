@@ -1,5 +1,7 @@
 EXP NO:16 C PROGRAM TO SEARCH A GIVEN ELEMENT IN THE GIVEN LINKED LIST.
 
+Date: 17.2.26
+
 Name: VISHNU KM
 
 Reg.no: 212223240185
@@ -53,6 +55,8 @@ Thus, the program to search a given element in the given linked list is verified
 
  
 EXP NO:17  PROGRAM TO INSERT A NODE IN A LINKED LIST.
+
+Date: 18.2.26
 
 Aim:
 To write a C program to insert a node in a linked list.
@@ -110,6 +114,8 @@ Thus, the program to insert a node in a linked list is verified successfully.
  
 EXP NO:18 C PROGRAM TO TRAVERSE A DOUBLY LINKED LIST.
 
+Date: 19.2.26
+
 Aim:
 To write a C program to traverse a doubly linked list.
 
@@ -163,6 +169,8 @@ Thus, the program to traverse a doubly linked list is verified successfully.
 
 
 EXP NO:19 C PROGRAM TO INSERT AN ELEMENT IN DOUBLY LINKED LIST.
+
+Date: 20.2.26
 
 Aim:
 To write a C program to insert an element in doubly linked list
@@ -231,6 +239,8 @@ Thus, the program to insert an element in doubly linked list is verified success
 
 
 EXP NO:20 C FUNCTION TO DELETE A GIVEN ELEMENT IN THE GIVEN LINKED LIST
+
+Date: 21.2.26
 
 Aim:
 To write a C function that deletes a given element from a linked list.
