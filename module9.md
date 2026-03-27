@@ -1,5 +1,7 @@
 EXP NO:11 C PROGRAM TO DISPLAY STACK ELEMENTS USING AN ARRAY.
 
+Date: 10.2.26
+
 Name: VISHNU KM
 
 Reg.no: 212223240185
@@ -42,6 +44,9 @@ Thus, the program to display stack elements using an array is verified successfu
  
 
 EXP NO:12  PROGRAM TO PUSH THE GIVEN ELEMENT IN TO A STACK USING ARRAY.
+
+Date: 11.2.26
+
 Aim:
 To create a C program to push the given element in to a stack using array.
 Algorithm:
@@ -81,6 +86,9 @@ Thus, the program to push the given element in to a stack using array is verifie
 
  
 EXP NO:13 C PROGRAM TO DISPLAY QUEUE ELEMENTS USING ARRAY.
+
+Date: 12.2.26
+
 Aim:
 To write a C program to display queue elements using array
 
@@ -123,6 +131,9 @@ Thus, the program to display queue elements using array is verified successfully
 
  
 EXP NO:14 C PROGRAM TO INSERT ELEMENTS IN QUEUE USING ARRAY.
+
+Date: 13.2.26
+
 Aim:
 To write a C program to insert elements in queue using array.
 
@@ -164,6 +175,7 @@ Thus, the program to insert elements in queue using array is verified successful
  
 EXP NO:15 C FUNCTION TO DELETE ELEMENTS IN QUEUE USING ARRAY
 
+Date: 14.2.26
 
 Aim:
 
